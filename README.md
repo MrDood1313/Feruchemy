@@ -1,4 +1,4 @@
-# Feruchemy
+# Feruchemy 1.0.0
 Source for Feruchemy Mod
 
 Link to CurseForge Project -> https://minecraft.curseforge.com/projects/feruchemy 
